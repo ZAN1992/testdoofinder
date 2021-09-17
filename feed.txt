@@ -1,0 +1,2 @@
+title|link|description|id|price|image link|product type
+LG Flatron M2262D 22" Full HD LCD|http://www.example.com/electronics/tv/LGM2262D.html|Attractively styled and boasting stunning picture quality|TV_123456|159 USD|http://images.example.com/TV_123456.png|Consumer Electronics > TVs > Flat Panel TVs
